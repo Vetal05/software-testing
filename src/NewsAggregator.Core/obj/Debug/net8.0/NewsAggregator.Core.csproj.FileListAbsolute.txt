@@ -1,0 +1,11 @@
+D:\каторга\software-testing\src\NewsAggregator.Core\bin\Debug\net8.0\NewsAggregator.Core.deps.json
+D:\каторга\software-testing\src\NewsAggregator.Core\bin\Debug\net8.0\NewsAggregator.Core.dll
+D:\каторга\software-testing\src\NewsAggregator.Core\bin\Debug\net8.0\NewsAggregator.Core.pdb
+D:\каторга\software-testing\src\NewsAggregator.Core\obj\Debug\net8.0\NewsAggregator.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\каторга\software-testing\src\NewsAggregator.Core\obj\Debug\net8.0\NewsAggregator.Core.AssemblyInfoInputs.cache
+D:\каторга\software-testing\src\NewsAggregator.Core\obj\Debug\net8.0\NewsAggregator.Core.AssemblyInfo.cs
+D:\каторга\software-testing\src\NewsAggregator.Core\obj\Debug\net8.0\NewsAggregator.Core.csproj.CoreCompileInputs.cache
+D:\каторга\software-testing\src\NewsAggregator.Core\obj\Debug\net8.0\NewsAggregator.Core.dll
+D:\каторга\software-testing\src\NewsAggregator.Core\obj\Debug\net8.0\refint\NewsAggregator.Core.dll
+D:\каторга\software-testing\src\NewsAggregator.Core\obj\Debug\net8.0\NewsAggregator.Core.pdb
+D:\каторга\software-testing\src\NewsAggregator.Core\obj\Debug\net8.0\ref\NewsAggregator.Core.dll
