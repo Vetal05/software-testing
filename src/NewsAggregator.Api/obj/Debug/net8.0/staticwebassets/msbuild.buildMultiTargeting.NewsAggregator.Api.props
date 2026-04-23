@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\NewsAggregator.Api.props" />
-</Project>
